@@ -1,0 +1,17 @@
+.simple-space {
+	margin-top: 50px;
+}
+
+.date {
+	font-size: 12px;
+	color: grey;
+}
+
+body,
+.card {
+	background-color: #f5f9fc;
+}
+
+.bg-dark {
+	background-color: #005bb6 !important;
+}
